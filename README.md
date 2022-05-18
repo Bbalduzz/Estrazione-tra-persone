@@ -1,5 +1,5 @@
 # Estrattore.py
-Estrattore.py è un semplice script scritto in `python` per estrarre un numero deciso dall'utente di persone appartenenti a una lista
+Estrattore.py è un semplice script scritto in `python` per estrarre un numero di persone deciso dall'utente appartenenti a una lista
 
 ### ✈️ Features
 - Possibilità di ampliare o diminuire la lista di persone tra cui estrarre
