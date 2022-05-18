@@ -1,0 +1,6 @@
+random
+os
+rich
+datetime
+prettytable
+numpy
